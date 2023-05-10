@@ -22,4 +22,4 @@ Usage
 To run the analysis, simply download the code.ipynb file and run it in Jupyter notebook. 
 
 Credits
-The project in this repository has been done by Shahbaz, Gauravi, Maria & Haddy. 
+This project has been done by Shahbaz, Gauravi, Maria & Haddy. 
