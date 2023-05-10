@@ -1,4 +1,5 @@
 #BOSTON 311: A DATA-DRIVEN APPROACH TO ENHANCE CITIZEN SERVICES AND QUALITY OF LIFE
+
 This repository contains code for solving two basic probelems:
 a.) Can we predict the probability of issue resolution when photographic evidence is submitted, while considering the impact of the source and location of the report?
 b.) How can we leverage seasonality patterns from historical data to make accurate predictions of the duration it takes to close a case?
